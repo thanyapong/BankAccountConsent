@@ -1,0 +1,32 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "SSD Wanatat C.",
+  "groupIdentity": "Smile Solution Development",
+  "identity": "Net60_ApiTemplate_2023",
+  "name": "Net60_ApiTemplate_2023",
+  "defaultName": "Net60_ApiTemplate_2023",
+  "shortName": "net60_apitemplate_2023",
+  "sourceName": "Net60_ApiTemplate_2023",
+  "description": "Smile Solution Development's Net 6 Api Template version 2023",
+  "icon": "..\\__TemplateIcon.png",
+  "preferedLanguage": "C#",
+  "classifications": [
+    "Common",
+    "Web",
+    "Api"
+  ],
+  "tags": {
+    "language": "C#",
+    "platform": ".NET",
+    "projectType": "template",
+    "technology": "ASP.NET Core"
+  },
+  "primaryOutputs": [
+    {
+      "path": "Net60_ApiTemplate_2023\\Net60_ApiTemplate_2023.csproj"
+    },
+    {
+      "path": "Net60_ApiTemplate_2023.UnitTest\\Net60_ApiTemplate_2023.UnitTest.csproj"
+    }
+  ]
+}

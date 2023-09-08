@@ -1,0 +1,61 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "AppDBContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": "Data",
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "TTB.BankAccountConsent",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[BatchSource]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[ttb].[TTBActionType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[ttb].[TTBBatchDetail]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[ttb].[TTBBatchHeader]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[ttb].[TTBBatchTrailer]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[ttb].[usp_TTBBatchToBankAccountConsent_Insert]",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": "UAT-PORTAL\\UAT_PORTAL.BankAccountConsent",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
